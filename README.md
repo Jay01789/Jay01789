@@ -7,6 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Springboot,Spring Security**
+
+- 🌱 I’m currently learning **HTML,CSS,REACT JS**
+
+- 👯 I’m looking to collaborate on **API's**
+
+- 🤝 I’m looking for help with **React JS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Jay01789](https://github.com/Jay01789)
+
+- 💬 Ask me about **JAVA,SPRINGBOOT,SQL**
+
+- 📫 How to reach me **jayakumar97jk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/jayakumar97jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayakumar97jk" height="30" width="40" /></a>
